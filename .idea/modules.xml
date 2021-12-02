@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutomationTesting/AutomationTesting.iml" filepath="$PROJECT_DIR$/AutomationTesting/AutomationTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BDDAutomationTestingFramework/BDDAutomationTestingFramework.iml" filepath="$PROJECT_DIR$/BDDAutomationTestingFramework/BDDAutomationTestingFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FusionRegressionAutomation/FusionRegressionAutomation.iml" filepath="$PROJECT_DIR$/FusionRegressionAutomation/FusionRegressionAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoeasyAutomationTesting/src/GoeasyAutomationTesting.iml" filepath="$PROJECT_DIR$/GoeasyAutomationTesting/src/GoeasyAutomationTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoeasyAutomationTesting/SalesForce/SalesForce.iml" filepath="$PROJECT_DIR$/GoeasyAutomationTesting/SalesForce/SalesForce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salesforce-jdbc/sf-jdbc-driver/src/main/main.iml" filepath="$PROJECT_DIR$/salesforce-jdbc/sf-jdbc-driver/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salesforce-jdbc/sf-auth-client/src/main/main1.iml" filepath="$PROJECT_DIR$/salesforce-jdbc/sf-auth-client/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salesforce-jdbc/sf-jdbc-driver/src/test/test.iml" filepath="$PROJECT_DIR$/salesforce-jdbc/sf-jdbc-driver/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salesforce-jdbc/sf-auth-client/src/test/test1.iml" filepath="$PROJECT_DIR$/salesforce-jdbc/sf-auth-client/src/test/test1.iml" />
+    </modules>
+  </component>
+</project>

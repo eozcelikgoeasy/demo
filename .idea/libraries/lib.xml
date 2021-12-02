@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/poi-examples-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/selenium-server-standalone-3.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/xlsx-streamer-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/junit4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/poi-ooxml-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/mongodb-driver-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/freemarker-2.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/commons-email-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/bson-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/bsh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/jaxen-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/okio-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/extentreports-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/log4j-api-2.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/testng-6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/okhttp-3.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/poi-excelant-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/poi-scratchpad-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/client-combined-3.141.59-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/mongodb-driver-core-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/commons-compress-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/log4j-core-2.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/client-combined-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/joda-time-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/guava-25.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FusionRegressionAutomation/lib/poi-integration-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
